@@ -1,7 +1,7 @@
 import random
 i=0
 f=open("input2.csv","w")
-while i<1000:
+while i<10000:
     amt=0
     fraud=0
     notfraud=0
