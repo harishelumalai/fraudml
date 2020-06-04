@@ -1,0 +1,5 @@
+#current country is different from last txn country code,last txn is within 1hr,fraud or not
+1,1,1
+1,0,0
+0,1,0
+0,0,0
